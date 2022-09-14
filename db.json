@@ -1,0 +1,33 @@
+{
+    "customers": [
+    
+    {
+        
+        "id": 1,
+        "email": "YewMeng.Kok@vonage.com",
+        "phone": "622130761760",
+        "name": "YewMeng Kok",
+        "plate": "B 000 OM",
+        "car_model": "Toyota Alphard",
+        "car_year": "2021",
+        "last_service_date": "05/20/2022",
+        "tag": "vip"
+          
+    },
+
+    {
+        "id": 2,
+        "email": "frando.manurunga@vonage.com",
+        "phone": "18483014473",
+        "name": "Frando Manurung",
+        "plate": "B 41 KOM",
+        "car_model": "Toyota Land Cuiser 300",
+        "car_year": "2021",
+        "last_service_date": "01/20/2022",
+        "tag": "vip"
+      }
+
+
+  ]
+
+}
